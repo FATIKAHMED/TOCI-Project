@@ -1,0 +1,12 @@
+.borders{
+    border: 2px solid black;
+    border-radius: 10px;
+
+}
+.box{
+    box-shadow: -1px 3px 11px 2px;
+}
+.card-container > div{
+    padding: 0.95rem;
+    width: 20%;
+}
